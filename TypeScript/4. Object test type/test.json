@@ -1,0 +1,11 @@
+{
+	"officeId": 45,
+	"isOpened": false,
+	"contacts": {
+		"phone": "+998992312433",
+		"email": "drustamjonov0919@gmail.com",
+		"address": {
+			"city": "Tashkent"
+		}
+	}
+}
